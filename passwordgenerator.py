@@ -38,6 +38,9 @@ label.pack(padx=10, pady=10)
 # Some option list
 values = ["8", "12","16", "32"]
 
+# Drop down combo boxes
+optionmenu = customtkinter.CTkComboBox(app, width=240, values=values)
+optionmenu.pack(padx=11, pady=11)
 
 # Infinite loop to run the GUI
 app.mainloop()
