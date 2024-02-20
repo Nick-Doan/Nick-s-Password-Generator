@@ -2,3 +2,4 @@ A password generator using customtkinter as the gui. Choose 4 password length op
 
 Download the .py file and run it. Make sure to have customtkinter installed. 
 pip3 install customtkinter
+
